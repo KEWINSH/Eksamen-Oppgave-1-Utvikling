@@ -1,0 +1,34 @@
+.navigation-bar {
+    width: 100%; 
+    height: 80px;
+    border: solid black; 
+}
+.logo {
+    vertical-align: top;
+    width: 250px;
+    height: 50px;
+    margin-left: 20px;
+    margin-top: 15px;    
+}
+.navigation-bar > a {
+    float: right;
+    vertical-align: top;
+    margin-right: 20px;
+    height: 80px;        
+    line-height: 80px;   
+}
+
+  
+  .container {
+    display: flex;
+ }
+ .Boxene {
+    flex:1;
+    text-align: center;
+    margin: 5px;
+    margin-top: 15vh;
+ }
+ img {
+    width: 128px;
+ }
+  
